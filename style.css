@@ -1,0 +1,12 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 500;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(44, 40, 40);
+}
+form{
+    color: aliceblue;
+}
