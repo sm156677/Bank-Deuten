@@ -5,8 +5,30 @@ h1{
     color: aliceblue;
 }
 body{
-    background-color: rgb(44, 40, 40);
+    background-color: rgb(53, 46, 46);
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
 }
 form{
+    color: aliceblue;
+}
+h2{
+    color: rgb(215, 232, 248);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+button{
+    background-color: white;
+  color: black;
+  border: 2px solid #04AA6D; /* Green */
+}
+header{
+    background-color: darkgray;
+
+}
+footer{
+    background-color: rgb(156, 154, 154);
     color: aliceblue;
 }
