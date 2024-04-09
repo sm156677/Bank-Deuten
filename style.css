@@ -1,7 +1,5 @@
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
-    font-weight: 500;
     color: aliceblue;
 }
 body{
@@ -10,6 +8,9 @@ body{
     font-family:'Courier New', Courier, monospace;
     font-size: larger;
     text-align: center;
+}
+li{
+    text-align: left;
 }
 form{
     color: aliceblue;
@@ -37,7 +38,7 @@ a{
     text-decoration: none;
 }
 a:visited{
-    color: rgb(226, 232, 238);
+    color: rgb(198, 216, 235);
 }
 a:hover{
     color: aqua;
@@ -59,9 +60,9 @@ eine class wird in der styles.css immer mit einem führenden Punkt(.) dargestell
         .flex-container > div {
           color: black;
             background-color: #d8d6d6;
-          width: 500px;
+          width: 100%;
           margin:10px;
-          text-align: center;
+          text-align:center;
           line-height: 75px;
           font-size: 30px;
         }
